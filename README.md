@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Banner" />
+  <img src="banner.jpg" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=FamilFG;Software+Engineer;AI+%7C+ML+%7C+Backend+%7C+Flutter;Building+systems+and+models" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=600&lines=FamilFG;AI/ML+Engineer;AI+%7C+ML+%7C+Backendr;Building+systems+and+models" />
 </p>
 
 <p align="center">
