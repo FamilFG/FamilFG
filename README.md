@@ -1,7 +1,7 @@
 # Famil Gulmammadov
 
 <p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="banner.jpg" alt="Banner" />
 </p>
 
 ## About
