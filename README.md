@@ -21,7 +21,7 @@
 
 ### 🤖 AI / ML Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ultralytics" />
 </p>
 
 - **Deep-Learning-Works** — RAG pipelines, CNN/RNN/LSTM, sentiment analysis systems  
