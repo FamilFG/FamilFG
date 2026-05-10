@@ -7,6 +7,15 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%2FML-Research-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Backend-Microservices-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter"/>
+  <img src="https://img.shields.io/badge/Java-Enterprise-red?style=flat-square"/>
+</p>
+
+---
+
 
 ## Projects
 
