@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI%2FML-Research-8A2BE2?style=flat-square"/>
   <img src="https://img.shields.io/badge/Backend-Microservices-0A66C2?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=flat-square&logo=flutter"/>
   <img src="https://img.shields.io/badge/Java-Enterprise-red?style=flat-square"/>
 </p>
 
@@ -47,15 +46,4 @@
 - **Payment-Managment-MS** — payment processing service  
 - **Student-MS-System** — Spring Boot + MySQL backend system  
 - **Java-Works** — Java learning and practice repository  
-- **Labyrinth-Project** — Java-based system project  
-
----
-
-### 📱 Applications
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
-- **Coffee-Shop-App** — Flutter ordering system  
-- **Fulify-Airport-App** — flight and hotel booking platform  
-- **E-Commerce-Platform-Front** — Flutter frontend for distributed system  
+- **Labyrinth-Project** — Java-based system project
